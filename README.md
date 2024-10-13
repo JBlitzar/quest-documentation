@@ -15,7 +15,9 @@ Click in: README should have a breif description of the project, while NOTES sho
 - Computer vision for FTC
   - (link to publicized repo TODO)
 - Symbolic computation: derivative calculator
-  - https://github.com/JBlitzar/derivative TODO add README and NOTES  
+  - https://github.com/JBlitzar/derivative TODO add README and NOTES
+- LangChain builder
+  - TODO track down and add repo  
 
 next projects:
 
