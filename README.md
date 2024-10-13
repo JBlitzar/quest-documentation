@@ -12,6 +12,10 @@ Click in: README should have a breif description of the project, while NOTES sho
 - JBlitzar/adversarial-attacks --
   - https://github.com/JBlitzar/adversarial-attacks/blob/main/README.md
   - https://github.com/JBlitzar/adversarial-attacks/blob/main/NOTES.txt
+- Computer vision for FTC
+  - (link to publicized repo TODO)
+- Symbolic computation: derivative calculator
+  - https://github.com/JBlitzar/derivative TODO add README and NOTES  
 
 next projects:
 
