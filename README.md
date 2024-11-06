@@ -23,5 +23,10 @@ Click in: README should have a breif description of the project, while NOTES sho
 
 next projects:
 
-explainability
-transformers
+transformers -- Text-based project?
+
+
+colorization
+style transfer
+Disease detection
+Image-text alignment type stuff: captioning?
