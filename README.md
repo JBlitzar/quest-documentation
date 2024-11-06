@@ -20,6 +20,9 @@ Click in: README should have a breif description of the project, while NOTES sho
   - TODO track down and add repo
 - JBLitzar/saliency
   - https://github.com/JBlitzar/saliency
+- JBlitzar/code-completion
+  - https://github.com/JBlitzar/code-completion
+  - Transformer-based code completion
 
 next projects:
 
