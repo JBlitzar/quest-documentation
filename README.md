@@ -24,9 +24,25 @@ Click in: README should have a breif description of the project, while NOTES sho
 next projects:
 
 transformers -- Text-based project?
+ - Machine translation
+ - Summarization
+ - Sentiment analysis
+ - Vectorization?
+ - generation
+ - Sentence completion
+ - **Code completion**
+ - 
 
+Image ideas:
+ - colorization
+ - style transfer
+ - Disease detection
+ - Image-text alignment type stuff: captioning?
 
-colorization
-style transfer
-Disease detection
-Image-text alignment type stuff: captioning?
+Audio
+ - captioning
+ - audio event detection
+ - Language detection
+ - Bird song, whale song recognition
+ - Denoising
+ - song classification
