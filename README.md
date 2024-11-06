@@ -17,7 +17,9 @@ Click in: README should have a breif description of the project, while NOTES sho
 - Symbolic computation: derivative calculator
   - https://github.com/JBlitzar/derivative TODO add README and NOTES
 - LangChain builder
-  - TODO track down and add repo  
+  - TODO track down and add repo
+- JBLitzar/saliency
+  - https://github.com/JBlitzar/saliency
 
 next projects:
 
