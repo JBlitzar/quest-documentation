@@ -20,9 +20,12 @@ Click in: README should have a breif description of the project, while NOTES sho
   - TODO track down and add repo
 - JBLitzar/saliency
   - https://github.com/JBlitzar/saliency
-- JBlitzar/code-completion
+- **JBlitzar/code-completion**
   - https://github.com/JBlitzar/code-completion
   - Transformer-based code completion, leading in to other generative transformers
+- JBlitzar/chest-xray
+ - Detecting chest xrays for pneumonia using a CNN.
+ - https://github.com/JBlitzar/chest-xray
 
 next projects:
 
