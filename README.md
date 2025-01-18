@@ -7,6 +7,7 @@ Click in: README should have a breif description of the project, while NOTES sho
  - JBlitzar/Text2Image -- text-to-image diffusion model:
    - https://github.com/JBlitzar/Text2Image/blob/main/README.md
    -  https://github.com/JBlitzar/Text2Image/blob/main/NOTES.md
+   -  <img src="https://github.com/JBlitzar/Text2Image/blob/main/runs/run_3_jxa/featured/epoch_46_step_3999.png">
  -  JBlitzar/genetic-graphs -- Finding optimal architecture with genetic algorithms
    -  https://github.com/JBlitzar/genetic-graphs
 - JBlitzar/adversarial-attacks --
